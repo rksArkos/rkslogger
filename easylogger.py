@@ -1,5 +1,7 @@
 import logging
 
+__version__ = 'dev'
+
 class Logger():
     def __init__(self, name):
         self.name = name
