@@ -1,14 +1,14 @@
 from setuptools import setup
 
-from easylogger import __version__
+from rkslogger import __version__
 
 setup(
-    name='easylogger',
+    name='rkslogger',
     version=__version__,
 
-    url='https://github.com/rksArkos/easylogger',
+    url='https://github.com/rksArkos/rkslogger',
     author='ArKoS',
     author_email='markusmacalla@gmail.com',
 
-    py_modules=['easylogger'],
+    py_modules=['rkslogger'],
 )
