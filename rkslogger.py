@@ -1,6 +1,6 @@
 import logging
 
-__version__ = 'dev'
+__version__ = '1.0'
 
 class Logger():
     def __init__(self, name):
